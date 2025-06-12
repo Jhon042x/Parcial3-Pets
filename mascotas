@@ -1,0 +1,8 @@
+id, Nombre, Edad, Telefono, id_vuelo, Tipo
+1, Tania, 3, 3052333668, 12, Gato
+2, Juli, 4, 3052333665, 14, Perro
+3, Tomas, 7, 3001236783, 16, Gato
+4, Juan, 4, 3001345987, 11, Perro
+5, Nicol,3, 3144094476, 13, Gato
+6, Miguel, 5, 3138104032, 15, Perro
+7, Lau, 3, 3208154728, 17, Gato
